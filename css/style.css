@@ -1356,6 +1356,23 @@ a.article-title:hover {
 .lg-outer .lg-thumb-item {
   border-radius: 0 !important;
 }
+.label-success {
+  background-color: #5cb85c;
+}
+.label-error {
+  background-color: #ff8711;
+}
+.label {
+  display: inline;
+  margin: 5px;
+  padding: 0.2em 0.6em 0.3em 0em;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 0.25em;
+}
 #comments {
   padding: 20px;
   margin: 40px 0;
