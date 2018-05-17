@@ -253,7 +253,7 @@
 
 </div>
 
-    <a data-url="http://blog.liurenjie.top/2018/05/17/test/" data-id="cjha8pc4y00028s5cd2zpw9ac" class="article-share-link"><i class="fa fa-share"></i>分享到</a>
+    <a data-url="http://blog.liurenjie.top/2018/05/17/test/" data-id="cjhaa949n00022c5c67utsgbi" class="article-share-link"><i class="fa fa-share"></i>分享到</a>
 <script>
     (function ($) {
         // Prevent duplicate binding
@@ -346,6 +346,10 @@
 
 
     
+    
+        <section id="comments">
+	<div id="commentContainer"></div>
+</section>
     
 
 </section>
@@ -468,6 +472,22 @@
     </div>
 </footer>
         
+    
+	<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+	<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+	<script>
+		var gitment = new Gitment({
+			owner: 'lrj941201@gmail.com',
+			repo: 'http://blog.liurenjie.top',
+			oauth: {
+				client_id: '3fd8f3281e03efe7a9eb',
+				client_secret: '263f9820425c25c79587306efe2f661178367a68',
+			},
+		})
+		gitment.render('commentContainer')
+	</script>
+	
+
 
 
     
