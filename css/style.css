@@ -208,6 +208,9 @@ code {
     width: 100%;
   }
 }
+#cyReward {
+  text-align: center;
+}
 .archive-article-header a,
 .layout-wrap-inner.tag-cloud a,
 .timeline-row .content h1 a,
