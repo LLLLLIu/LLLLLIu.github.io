@@ -4,8 +4,28 @@
 
     
   <url>
+    <loc>http://blog.liurenjie.top/posts/784dd132.html</loc>
+    <lastmod>2018-05-29T08:40:38.991Z</lastmod>
+    <data>
+        <display>
+        <title>Test</title>
+        <pubTime>2015-05-16T00:00:00.000Z</pubTime>
+        
+        <tag>test</tag>
+         
+         
+           
+             
+              <breadCrumb title="test" url="http://blog.liurenjie.top/categories/test/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://blog.liurenjie.top/posts/d2b05ff5.html</loc>
-    <lastmod>2018-05-28T01:28:43.692Z</lastmod>
+    <lastmod>2018-05-29T07:36:02.315Z</lastmod>
     <data>
         <display>
         <title>hexo添加个性化插件</title>
@@ -63,26 +83,6 @@
            
              
               <breadCrumb title="javascript" url="http://blog.liurenjie.top/categories/javascript/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/784dd132.html</loc>
-    <lastmod>2018-05-25T07:56:29.428Z</lastmod>
-    <data>
-        <display>
-        <title>Test</title>
-        <pubTime>2015-05-16T00:00:00.000Z</pubTime>
-        
-        <tag>test</tag>
-         
-         
-           
-             
-              <breadCrumb title="test" url="http://blog.liurenjie.top/categories/test/"/>
           
         </display>
     </data>
