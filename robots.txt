@@ -1,0 +1,14 @@
+#hexo robots.txt
+User-agent: *
+
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+
+Disallow: /js/
+Disallow: /css/
+
+Sitemap: http://blog.liurenjie.top/content.json
+Sitemap: http://blog.liurenjie.top/sitemap.xml
+Sitemap: http://blog.liurenjie.top/baidusitemap.xml
