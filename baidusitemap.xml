@@ -4,6 +4,32 @@
 
     
   <url>
+    <loc>http://blog.liurenjie.top/posts/fca4a688.html</loc>
+    <lastmod>2018-06-07T08:23:41.236Z</lastmod>
+    <data>
+        <display>
+        <title>spring boot redis分布式锁</title>
+        <pubTime>2018-06-07T16:03:48.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+        <tag>springboot</tag>
+         
+        <tag>redis</tag>
+         
+        <tag>分布式</tag>
+         
+         
+           
+             
+              <breadCrumb title="java" url="http://blog.liurenjie.top/categories/java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://blog.liurenjie.top/posts/d2b05ff5.html</loc>
     <lastmod>2018-06-04T03:11:02.918Z</lastmod>
     <data>
@@ -263,11 +289,11 @@
         <title>sh_脚本语法</title>
         <pubTime>2018-03-27T14:01:48.000Z</pubTime>
         
+        <tag>sh</tag>
+         
         <tag>shell</tag>
          
         <tag>linux</tag>
-         
-        <tag>sh</tag>
          
          
            
