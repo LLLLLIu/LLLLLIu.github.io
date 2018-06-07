@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://blog.liurenjie.top/posts/fca4a688.html</loc>
-    <lastmod>2018-06-07T08:23:41.236Z</lastmod>
+    <lastmod>2018-06-07T10:02:42.073Z</lastmod>
     <data>
         <display>
         <title>spring boot redis分布式锁</title>
@@ -23,6 +23,892 @@
            
              
               <breadCrumb title="java" url="http://blog.liurenjie.top/categories/java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/d3cace8d.html</loc>
+    <lastmod>2018-06-07T10:00:35.854Z</lastmod>
+    <data>
+        <display>
+        <title>mvn配置settings文件</title>
+        <pubTime>2017-07-12T10:35:57.000Z</pubTime>
+        
+        <tag>maven</tag>
+         
+         
+           
+             
+              <breadCrumb title="maven" url="http://blog.liurenjie.top/categories/maven/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/d70f9175.html</loc>
+    <lastmod>2018-06-07T09:59:59.279Z</lastmod>
+    <data>
+        <display>
+        <title>报错ERR Unsupported CONFIG parameter</title>
+        <pubTime>2017-03-14T18:37:44.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+        <tag>exception</tag>
+         
+         
+           
+             
+              <breadCrumb title="java" url="http://blog.liurenjie.top/categories/java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/bb099590.html</loc>
+    <lastmod>2018-06-07T09:59:33.415Z</lastmod>
+    <data>
+        <display>
+        <title>maven构建ojdbc.jar包到本地仓库</title>
+        <pubTime>2017-05-01T13:54:00.000Z</pubTime>
+        
+        <tag>maven</tag>
+         
+         
+           
+             
+              <breadCrumb title="maven" url="http://blog.liurenjie.top/categories/maven/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/19a6144d.html</loc>
+    <lastmod>2018-06-07T09:58:01.862Z</lastmod>
+    <data>
+        <display>
+        <title>SpringBoot 实现控制器 IP 访问次数限制</title>
+        <pubTime>2018-03-27T13:41:49.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+        <tag>springboot</tag>
+         
+         
+           
+             
+              <breadCrumb title="java" url="http://blog.liurenjie.top/categories/java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/97741006.html</loc>
+    <lastmod>2018-06-07T09:57:40.532Z</lastmod>
+    <data>
+        <display>
+        <title>spring boot 学习(十二)拦截器实现IP黑名单</title>
+        <pubTime>2018-03-27T13:47:26.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+        <tag>springboot</tag>
+         
+         
+           
+             
+              <breadCrumb title="java" url="http://blog.liurenjie.top/categories/java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/ea2f6d55.html</loc>
+    <lastmod>2018-06-07T09:55:37.579Z</lastmod>
+    <data>
+        <display>
+        <title>sh_脚本语法</title>
+        <pubTime>2018-03-27T14:01:48.000Z</pubTime>
+        
+        <tag>sh</tag>
+         
+        <tag>shell</tag>
+         
+        <tag>linux</tag>
+         
+         
+           
+             
+              <breadCrumb title="linux" url="http://blog.liurenjie.top/categories/linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/3cadc7b.html</loc>
+    <lastmod>2018-06-07T09:54:04.497Z</lastmod>
+    <data>
+        <display>
+        <title>Java8 Stream API介绍</title>
+        <pubTime>2018-03-27T13:55:34.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+        <tag>lambda</tag>
+         
+        <tag>java8</tag>
+         
+         
+           
+             
+              <breadCrumb title="java" url="http://blog.liurenjie.top/categories/java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/7034b073.html</loc>
+    <lastmod>2018-06-07T09:34:43.941Z</lastmod>
+    <data>
+        <display>
+        <title>CentOS6.5安装与配置Mysql数据库</title>
+        <pubTime>2017-01-11T16:32:00.000Z</pubTime>
+        
+        <tag>mysql</tag>
+         
+        <tag>centos6</tag>
+         
+         
+           
+             
+              <breadCrumb title="linux" url="http://blog.liurenjie.top/categories/linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/6ffc91de.html</loc>
+    <lastmod>2018-06-07T09:34:09.942Z</lastmod>
+    <data>
+        <display>
+        <title>tomcat+nginx+redis实现均衡负载、session共享(二)</title>
+        <pubTime>2017-03-14T20:33:32.000Z</pubTime>
+        
+        <tag>nginx</tag>
+         
+        <tag>tomcat</tag>
+         
+        <tag>redis</tag>
+         
+         
+           
+             
+              <breadCrumb title="nginx" url="http://blog.liurenjie.top/categories/nginx/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/78468f49.html</loc>
+    <lastmod>2018-06-07T09:34:04.435Z</lastmod>
+    <data>
+        <display>
+        <title>一键安装ssr脚本</title>
+        <pubTime>2017-02-10T15:01:05.000Z</pubTime>
+        
+        <tag>shadowsocks</tag>
+         
+        <tag>linux</tag>
+         
+         
+           
+             
+              <breadCrumb title="shadowsocks" url="http://blog.liurenjie.top/categories/shadowsocks/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/36a5596d.html</loc>
+    <lastmod>2018-06-07T09:32:34.712Z</lastmod>
+    <data>
+        <display>
+        <title>Ubuntu 16.04配置Shadowsocks和Privoxy实现浏览器和终端代理</title>
+        <pubTime>2017-03-18T18:52:19.000Z</pubTime>
+        
+        <tag>ubuntu</tag>
+         
+        <tag>shadowsocks</tag>
+         
+        <tag>privoxy</tag>
+         
+         
+           
+             
+              <breadCrumb title="shadowsocks" url="http://blog.liurenjie.top/categories/shadowsocks/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/aeb522b6.html</loc>
+    <lastmod>2018-06-07T09:32:14.418Z</lastmod>
+    <data>
+        <display>
+        <title>服务器上搭建ss</title>
+        <pubTime>2017-01-11T00:00:00.000Z</pubTime>
+        
+        <tag>shadowsocks</tag>
+         
+        <tag>linux</tag>
+         
+         
+           
+             
+              <breadCrumb title="shadowsocks" url="http://blog.liurenjie.top/categories/shadowsocks/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/7f4c8f65.html</loc>
+    <lastmod>2018-06-07T09:31:58.051Z</lastmod>
+    <data>
+        <display>
+        <title>Redis配置参数的热修改 设置有效时间</title>
+        <pubTime>2017-08-29T14:26:56.000Z</pubTime>
+        
+        <tag>redis</tag>
+         
+         
+           
+             
+              <breadCrumb title="redis" url="http://blog.liurenjie.top/categories/redis/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/c0cd0abc.html</loc>
+    <lastmod>2018-06-07T09:31:21.310Z</lastmod>
+    <data>
+        <display>
+        <title>tomcat+nginx+redis实现均衡负载、session共享(一)</title>
+        <pubTime>2017-03-14T16:57:53.000Z</pubTime>
+        
+        <tag>nginx</tag>
+         
+        <tag>tomcat</tag>
+         
+        <tag>redis</tag>
+         
+         
+           
+             
+              <breadCrumb title="nginx" url="http://blog.liurenjie.top/categories/nginx/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/8742f319.html</loc>
+    <lastmod>2018-06-07T09:31:08.290Z</lastmod>
+    <data>
+        <display>
+        <title>Nginx+Tomcat搭建高性能负载均衡集群</title>
+        <pubTime>2017-03-14T16:07:43.000Z</pubTime>
+        
+        <tag>nginx</tag>
+         
+        <tag>tomcat</tag>
+         
+         
+           
+             
+              <breadCrumb title="nginx" url="http://blog.liurenjie.top/categories/nginx/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/9ac7da4f.html</loc>
+    <lastmod>2018-06-07T09:30:49.832Z</lastmod>
+    <data>
+        <display>
+        <title>深入理解乐观锁与悲观锁</title>
+        <pubTime>2018-04-18T15:09:03.000Z</pubTime>
+        
+        <tag>mysql</tag>
+         
+        <tag>lock</tag>
+         
+         
+           
+             
+              <breadCrumb title="mysql" url="http://blog.liurenjie.top/categories/mysql/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/eed65abf.html</loc>
+    <lastmod>2018-06-07T09:29:27.810Z</lastmod>
+    <data>
+        <display>
+        <title>远程连接mysql 授权</title>
+        <pubTime>2018-03-07T15:07:39.000Z</pubTime>
+        
+        <tag>mysql</tag>
+         
+         
+           
+             
+              <breadCrumb title="mysql" url="http://blog.liurenjie.top/categories/mysql/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/f96309b2.html</loc>
+    <lastmod>2018-06-07T09:29:04.488Z</lastmod>
+    <data>
+        <display>
+        <title>linux/windows mysql修改密码</title>
+        <pubTime>2018-03-07T11:00:02.000Z</pubTime>
+        
+        <tag>windows</tag>
+         
+        <tag>mysql</tag>
+         
+        <tag>linux</tag>
+         
+         
+           
+             
+              <breadCrumb title="mysql" url="http://blog.liurenjie.top/categories/mysql/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/646fd565.html</loc>
+    <lastmod>2018-06-07T09:28:47.583Z</lastmod>
+    <data>
+        <display>
+        <title>mysql数据关联查询及显示问题,一对多查询</title>
+        <pubTime>2017-08-17T14:55:40.000Z</pubTime>
+        
+        <tag>mysql</tag>
+         
+         
+           
+             
+              <breadCrumb title="mysql" url="http://blog.liurenjie.top/categories/mysql/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/c5efe366.html</loc>
+    <lastmod>2018-06-07T09:28:25.080Z</lastmod>
+    <data>
+        <display>
+        <title>MySQL中select * for update锁表的范围</title>
+        <pubTime>2017-03-14T11:30:35.000Z</pubTime>
+        
+        <tag>mysql</tag>
+         
+         
+           
+             
+              <breadCrumb title="mysql" url="http://blog.liurenjie.top/categories/mysql/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/7c96e91b.html</loc>
+    <lastmod>2018-06-07T09:27:58.977Z</lastmod>
+    <data>
+        <display>
+        <title>mysql 用户管理和权限设置</title>
+        <pubTime>2017-02-09T13:23:12.000Z</pubTime>
+        
+        <tag>mysql</tag>
+         
+         
+           
+             
+              <breadCrumb title="mysql" url="http://blog.liurenjie.top/categories/mysql/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/a99ba9a7.html</loc>
+    <lastmod>2018-06-07T09:26:44.372Z</lastmod>
+    <data>
+        <display>
+        <title>如何在centos上搭建自己maven仓库</title>
+        <pubTime>2017-03-10T17:56:00.000Z</pubTime>
+        
+        <tag>maven</tag>
+         
+        <tag>linux</tag>
+         
+        <tag>jdk</tag>
+         
+         
+           
+             
+              <breadCrumb title="maven" url="http://blog.liurenjie.top/categories/maven/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/4766fec9.html</loc>
+    <lastmod>2018-06-07T09:26:27.609Z</lastmod>
+    <data>
+        <display>
+        <title>Linux 下后台运行程序，查看和关闭后台运行程序</title>
+        <pubTime>2018-03-27T14:03:48.000Z</pubTime>
+        
+        <tag>shell</tag>
+         
+        <tag>linux</tag>
+         
+         
+           
+             
+              <breadCrumb title="linux" url="http://blog.liurenjie.top/categories/linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/2fc63518.html</loc>
+    <lastmod>2018-06-07T09:25:10.323Z</lastmod>
+    <data>
+        <display>
+        <title>前端图片压缩上传(纯js的质量压缩，非长宽压缩)</title>
+        <pubTime>2018-04-17T16:04:51.000Z</pubTime>
+        
+        <tag>javascript</tag>
+         
+        <tag>图片压缩</tag>
+         
+         
+           
+             
+              <breadCrumb title="javascript" url="http://blog.liurenjie.top/categories/javascript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/375984d0.html</loc>
+    <lastmod>2018-06-07T09:23:53.239Z</lastmod>
+    <data>
+        <display>
+        <title>在 CentOS7 上安装 Tomcat9</title>
+        <pubTime>2017-01-11T16:04:02.000Z</pubTime>
+        
+        <tag>centos7</tag>
+         
+        <tag>tomcat</tag>
+         
+        <tag>centos6</tag>
+         
+         
+           
+             
+              <breadCrumb title="linux" url="http://blog.liurenjie.top/categories/linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/c339e7f3.html</loc>
+    <lastmod>2018-06-07T09:23:23.363Z</lastmod>
+    <data>
+        <display>
+        <title>centos手动安装jdk</title>
+        <pubTime>2017-01-11T15:54:40.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+        <tag>centos7</tag>
+         
+        <tag>ubuntu</tag>
+         
+        <tag>jdk</tag>
+         
+        <tag>centos6</tag>
+         
+         
+           
+             
+              <breadCrumb title="linux" url="http://blog.liurenjie.top/categories/linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/4170035f.html</loc>
+    <lastmod>2018-06-07T09:22:47.923Z</lastmod>
+    <data>
+        <display>
+        <title>在centos7上搭建mysql环境</title>
+        <pubTime>2017-01-11T09:51:24.000Z</pubTime>
+        
+        <tag>centos7</tag>
+         
+        <tag>mysql</tag>
+         
+         
+           
+             
+              <breadCrumb title="linux" url="http://blog.liurenjie.top/categories/linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/e69fdf4.html</loc>
+    <lastmod>2018-06-07T09:22:16.676Z</lastmod>
+    <data>
+        <display>
+        <title>js输入文本验证</title>
+        <pubTime>2016-12-29T00:00:00.000Z</pubTime>
+        
+        <tag>javascript</tag>
+         
+        <tag>html</tag>
+         
+         
+           
+             
+              <breadCrumb title="javascript" url="http://blog.liurenjie.top/categories/javascript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/f3825253.html</loc>
+    <lastmod>2018-06-07T09:21:54.418Z</lastmod>
+    <data>
+        <display>
+        <title>根据字节数获取字符长度 并截取</title>
+        <pubTime>2016-12-20T00:00:00.000Z</pubTime>
+        
+        <tag>javascript</tag>
+         
+         
+           
+             
+              <breadCrumb title="javascript" url="http://blog.liurenjie.top/categories/javascript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/de16cbc4.html</loc>
+    <lastmod>2018-06-07T09:21:41.262Z</lastmod>
+    <data>
+        <display>
+        <title>2018-04-20 IntelliJ IDEA 2018.1.1 激活破解方法</title>
+        <pubTime>2018-04-20T17:16:29.000Z</pubTime>
+        
+        <tag>idea</tag>
+         
+        <tag>破解</tag>
+         
+         
+           
+             
+              <breadCrumb title="破解" url="http://blog.liurenjie.top/categories/%E7%A0%B4%E8%A7%A3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/49141bf6.html</loc>
+    <lastmod>2018-06-07T09:20:34.933Z</lastmod>
+    <data>
+        <display>
+        <title>将jar包安装到本地repository中的命令</title>
+        <pubTime>2018-03-28T16:34:16.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+        <tag>maven</tag>
+         
+         
+           
+             
+              <breadCrumb title="maven" url="http://blog.liurenjie.top/categories/maven/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/9ccc251b.html</loc>
+    <lastmod>2018-06-07T09:18:46.164Z</lastmod>
+    <data>
+        <display>
+        <title>lambda实体属性去重，对实体的某个属性进行去重</title>
+        <pubTime>2018-03-15T11:20:43.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+        <tag>lambda</tag>
+         
+        <tag>java8</tag>
+         
+         
+           
+             
+              <breadCrumb title="java" url="http://blog.liurenjie.top/categories/java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/9305102a.html</loc>
+    <lastmod>2018-06-07T09:18:24.195Z</lastmod>
+    <data>
+        <display>
+        <title>eclipse安装Gradle插件</title>
+        <pubTime>2017-07-31T20:01:44.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+        <tag>gradle</tag>
+         
+        <tag>eclipse</tag>
+         
+         
+           
+             
+              <breadCrumb title="java" url="http://blog.liurenjie.top/categories/java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/e71a04da.html</loc>
+    <lastmod>2018-06-07T09:18:07.810Z</lastmod>
+    <data>
+        <display>
+        <title>JAVA 验证码生成</title>
+        <pubTime>2017-07-19T16:00:21.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+        <tag>验证码</tag>
+         
+         
+           
+             
+              <breadCrumb title="java" url="http://blog.liurenjie.top/categories/java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/505e579.html</loc>
+    <lastmod>2018-06-07T09:17:20.330Z</lastmod>
+    <data>
+        <display>
+        <title>No WebApplicationContext found报错解决</title>
+        <pubTime>2017-03-14T17:24:27.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+        <tag>exception</tag>
+         
+         
+           
+             
+              <breadCrumb title="java" url="http://blog.liurenjie.top/categories/java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/7a0cd0da.html</loc>
+    <lastmod>2018-06-07T09:17:03.532Z</lastmod>
+    <data>
+        <display>
+        <title>线程同步synchronized和volatile</title>
+        <pubTime>2017-03-14T11:01:35.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+         
+           
+             
+              <breadCrumb title="java" url="http://blog.liurenjie.top/categories/java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/9a8ecd5e.html</loc>
+    <lastmod>2018-06-07T09:16:36.576Z</lastmod>
+    <data>
+        <display>
+        <title>java中实现同步的两种方式:syschronized和lock的区别和联系</title>
+        <pubTime>2017-03-12T22:12:27.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+         
+           
+             
+              <breadCrumb title="java" url="http://blog.liurenjie.top/categories/java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/6620919c.html</loc>
+    <lastmod>2018-06-07T09:16:19.094Z</lastmod>
+    <data>
+        <display>
+        <title>JVM原理（Java代码编译和执行的整个过程+JVM内存管理及垃圾回收机制）</title>
+        <pubTime>2016-12-30T09:32:21.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+        <tag>jvm</tag>
+         
+         
+           
+             
+              <breadCrumb title="java" url="http://blog.liurenjie.top/categories/java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/64baa540.html</loc>
+    <lastmod>2018-06-07T09:15:35.091Z</lastmod>
+    <data>
+        <display>
+        <title>几种常用加密算法比较</title>
+        <pubTime>2017-03-12T21:30:45.000Z</pubTime>
+        
+        <tag>加密</tag>
+         
+         
+           
+             
+              <breadCrumb title="加密" url="http://blog.liurenjie.top/categories/%E5%8A%A0%E5%AF%86/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/472ddb62.html</loc>
+    <lastmod>2018-06-07T09:15:16.252Z</lastmod>
+    <data>
+        <display>
+        <title>DOS/BAT批处理if exist else 语句的几种用法</title>
+        <pubTime>2017-01-13T10:31:32.000Z</pubTime>
+        
+        <tag>windows</tag>
+         
+        <tag>dos</tag>
+         
+        <tag>bat</tag>
+         
+         
+           
+             
+              <breadCrumb title="windows" url="http://blog.liurenjie.top/categories/windows/"/>
           
         </display>
     </data>
@@ -152,72 +1038,6 @@
 
     
   <url>
-    <loc>http://blog.liurenjie.top/posts/de16cbc4.html</loc>
-    <lastmod>2018-06-01T09:06:20.075Z</lastmod>
-    <data>
-        <display>
-        <title>2018-04-20 IntelliJ IDEA 2018.1.1 激活破解方法</title>
-        <pubTime>2018-04-20T17:16:29.000Z</pubTime>
-        
-        <tag>idea</tag>
-         
-        <tag>破解</tag>
-         
-         
-           
-             
-              <breadCrumb title="破解" url="http://blog.liurenjie.top/categories/%E7%A0%B4%E8%A7%A3/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/4766fec9.html</loc>
-    <lastmod>2018-06-01T08:51:30.347Z</lastmod>
-    <data>
-        <display>
-        <title>Linux 下后台运行程序，查看和关闭后台运行程序</title>
-        <pubTime>2018-03-27T14:03:48.000Z</pubTime>
-        
-        <tag>shell</tag>
-         
-        <tag>linux</tag>
-         
-         
-           
-             
-              <breadCrumb title="linux" url="http://blog.liurenjie.top/categories/linux/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/2fc63518.html</loc>
-    <lastmod>2018-06-01T06:43:51.597Z</lastmod>
-    <data>
-        <display>
-        <title>前端图片压缩上传(纯js的质量压缩，非长宽压缩)</title>
-        <pubTime>2018-04-17T16:04:51.000Z</pubTime>
-        
-        <tag>javascript</tag>
-         
-        <tag>图片压缩</tag>
-         
-         
-           
-             
-              <breadCrumb title="javascript" url="http://blog.liurenjie.top/categories/javascript/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://blog.liurenjie.top/posts/755145a9.html</loc>
     <lastmod>2018-06-01T06:43:51.595Z</lastmod>
     <data>
@@ -231,144 +1051,6 @@
            
              
               <breadCrumb title="nginx" url="http://blog.liurenjie.top/categories/nginx/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/9ac7da4f.html</loc>
-    <lastmod>2018-06-01T06:43:51.593Z</lastmod>
-    <data>
-        <display>
-        <title>深入理解乐观锁与悲观锁</title>
-        <pubTime>2018-04-18T15:09:03.000Z</pubTime>
-        
-        <tag>mysql</tag>
-         
-        <tag>lock</tag>
-         
-         
-           
-             
-              <breadCrumb title="mysql" url="http://blog.liurenjie.top/categories/mysql/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/49141bf6.html</loc>
-    <lastmod>2018-06-01T06:43:51.586Z</lastmod>
-    <data>
-        <display>
-        <title>将jar包安装到本地repository中的命令</title>
-        <pubTime>2018-03-28T16:34:16.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>maven</tag>
-         
-         
-           
-             
-              <breadCrumb title="maven" url="http://blog.liurenjie.top/categories/maven/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/ea2f6d55.html</loc>
-    <lastmod>2018-06-01T05:52:18.130Z</lastmod>
-    <data>
-        <display>
-        <title>sh_脚本语法</title>
-        <pubTime>2018-03-27T14:01:48.000Z</pubTime>
-        
-        <tag>sh</tag>
-         
-        <tag>shell</tag>
-         
-        <tag>linux</tag>
-         
-         
-           
-             
-              <breadCrumb title="linux" url="http://blog.liurenjie.top/categories/linux/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/f96309b2.html</loc>
-    <lastmod>2018-06-01T05:14:42.645Z</lastmod>
-    <data>
-        <display>
-        <title>linux/windows mysql修改密码</title>
-        <pubTime>2018-03-07T11:00:02.000Z</pubTime>
-        
-        <tag>windows</tag>
-         
-        <tag>mysql</tag>
-         
-        <tag>linux</tag>
-         
-         
-           
-             
-              <breadCrumb title="mysql" url="http://blog.liurenjie.top/categories/mysql/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/3cadc7b.html</loc>
-    <lastmod>2018-06-01T03:59:45.206Z</lastmod>
-    <data>
-        <display>
-        <title>Java8 Stream API介绍</title>
-        <pubTime>2018-03-27T13:55:34.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>lambda</tag>
-         
-        <tag>java8</tag>
-         
-         
-           
-             
-              <breadCrumb title="java" url="http://blog.liurenjie.top/categories/java/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/e71a04da.html</loc>
-    <lastmod>2018-06-01T03:59:45.203Z</lastmod>
-    <data>
-        <display>
-        <title>JAVA 验证码生成</title>
-        <pubTime>2017-07-19T16:00:21.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>验证码</tag>
-         
-         
-           
-             
-              <breadCrumb title="java" url="http://blog.liurenjie.top/categories/java/"/>
           
         </display>
     </data>
@@ -398,86 +1080,6 @@
 
     
   <url>
-    <loc>http://blog.liurenjie.top/posts/7f4c8f65.html</loc>
-    <lastmod>2018-06-01T03:59:45.199Z</lastmod>
-    <data>
-        <display>
-        <title>Redis配置参数的热修改 设置有效时间</title>
-        <pubTime>2017-08-29T14:26:56.000Z</pubTime>
-        
-        <tag>redis</tag>
-         
-         
-           
-             
-              <breadCrumb title="redis" url="http://blog.liurenjie.top/categories/redis/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/eed65abf.html</loc>
-    <lastmod>2018-06-01T03:59:45.198Z</lastmod>
-    <data>
-        <display>
-        <title>远程连接mysql 授权</title>
-        <pubTime>2018-03-07T15:07:39.000Z</pubTime>
-        
-        <tag>mysql</tag>
-         
-         
-           
-             
-              <breadCrumb title="mysql" url="http://blog.liurenjie.top/categories/mysql/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/646fd565.html</loc>
-    <lastmod>2018-06-01T03:59:45.195Z</lastmod>
-    <data>
-        <display>
-        <title>mysql数据关联查询及显示问题,一对多查询</title>
-        <pubTime>2017-08-17T14:55:40.000Z</pubTime>
-        
-        <tag>mysql</tag>
-         
-         
-           
-             
-              <breadCrumb title="mysql" url="http://blog.liurenjie.top/categories/mysql/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/d3cace8d.html</loc>
-    <lastmod>2018-06-01T03:59:45.192Z</lastmod>
-    <data>
-        <display>
-        <title>mvn配置settings文件</title>
-        <pubTime>2017-07-12T10:35:57.000Z</pubTime>
-        
-        <tag>maven</tag>
-         
-         
-           
-             
-              <breadCrumb title="maven" url="http://blog.liurenjie.top/categories/maven/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://blog.liurenjie.top/posts/c268d8f6.html</loc>
     <lastmod>2018-06-01T03:59:45.189Z</lastmod>
     <data>
@@ -491,26 +1093,6 @@
            
              
               <breadCrumb title="mongodb" url="http://blog.liurenjie.top/categories/mongodb/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/bb099590.html</loc>
-    <lastmod>2018-06-01T03:59:45.187Z</lastmod>
-    <data>
-        <display>
-        <title>maven构建ojdbc.jar包到本地仓库</title>
-        <pubTime>2017-05-01T13:54:00.000Z</pubTime>
-        
-        <tag>maven</tag>
-         
-         
-           
-             
-              <breadCrumb title="maven" url="http://blog.liurenjie.top/categories/maven/"/>
           
         </display>
     </data>
@@ -560,74 +1142,6 @@
 
     
   <url>
-    <loc>http://blog.liurenjie.top/posts/97741006.html</loc>
-    <lastmod>2018-06-01T03:59:45.179Z</lastmod>
-    <data>
-        <display>
-        <title>spring boot 学习(十二)拦截器实现IP黑名单</title>
-        <pubTime>2018-03-27T13:47:26.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>springboot</tag>
-         
-         
-           
-             
-              <breadCrumb title="java" url="http://blog.liurenjie.top/categories/java/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/9ccc251b.html</loc>
-    <lastmod>2018-06-01T03:59:45.174Z</lastmod>
-    <data>
-        <display>
-        <title>lambda实体属性去重，对实体的某个属性进行去重</title>
-        <pubTime>2018-03-15T11:20:43.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>lambda</tag>
-         
-        <tag>java8</tag>
-         
-         
-           
-             
-              <breadCrumb title="java" url="http://blog.liurenjie.top/categories/java/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/19a6144d.html</loc>
-    <lastmod>2018-06-01T03:59:45.171Z</lastmod>
-    <data>
-        <display>
-        <title>SpringBoot 实现控制器 IP 访问次数限制</title>
-        <pubTime>2018-03-27T13:41:49.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>springboot</tag>
-         
-         
-           
-             
-              <breadCrumb title="java" url="http://blog.liurenjie.top/categories/java/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://blog.liurenjie.top/posts/cf59dde7.html</loc>
     <lastmod>2018-06-01T03:59:45.168Z</lastmod>
     <data>
@@ -638,30 +1152,6 @@
         <tag>java</tag>
          
         <tag>kafka</tag>
-         
-         
-           
-             
-              <breadCrumb title="java" url="http://blog.liurenjie.top/categories/java/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/9305102a.html</loc>
-    <lastmod>2018-06-01T03:59:45.165Z</lastmod>
-    <data>
-        <display>
-        <title>eclipse安装Gradle插件</title>
-        <pubTime>2017-07-31T20:01:44.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>gradle</tag>
-         
-        <tag>eclipse</tag>
          
          
            
@@ -698,28 +1188,6 @@
 
     
   <url>
-    <loc>http://blog.liurenjie.top/posts/aeb522b6.html</loc>
-    <lastmod>2018-06-01T01:42:51.453Z</lastmod>
-    <data>
-        <display>
-        <title>服务器上搭建ss</title>
-        <pubTime>2017-01-11T00:00:00.000Z</pubTime>
-        
-        <tag>shadowsocks</tag>
-         
-        <tag>linux</tag>
-         
-         
-           
-             
-              <breadCrumb title="shadowsocks" url="http://blog.liurenjie.top/categories/shadowsocks/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://blog.liurenjie.top/posts/12b4dbc0.html</loc>
     <lastmod>2018-06-01T01:42:51.448Z</lastmod>
     <data>
@@ -727,79 +1195,9 @@
         <title>ubuntu16.04升级17.04</title>
         <pubTime>2017-04-16T10:21:39.000Z</pubTime>
         
-        <tag>tomcat</tag>
-         
         <tag>nginx</tag>
          
-         
-           
-             
-              <breadCrumb title="nginx" url="http://blog.liurenjie.top/categories/nginx/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/6ffc91de.html</loc>
-    <lastmod>2018-06-01T01:42:51.443Z</lastmod>
-    <data>
-        <display>
-        <title>tomcat+nginx+redis实现均衡负载、session共享(二)</title>
-        <pubTime>2017-03-14T20:33:32.000Z</pubTime>
-        
         <tag>tomcat</tag>
-         
-        <tag>nginx</tag>
-         
-        <tag>redis</tag>
-         
-         
-           
-             
-              <breadCrumb title="nginx" url="http://blog.liurenjie.top/categories/nginx/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/c0cd0abc.html</loc>
-    <lastmod>2018-06-01T01:42:51.436Z</lastmod>
-    <data>
-        <display>
-        <title>tomcat+nginx+redis实现均衡负载、session共享(一)</title>
-        <pubTime>2017-03-14T16:57:53.000Z</pubTime>
-        
-        <tag>tomcat</tag>
-         
-        <tag>nginx</tag>
-         
-        <tag>redis</tag>
-         
-         
-           
-             
-              <breadCrumb title="nginx" url="http://blog.liurenjie.top/categories/nginx/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/8742f319.html</loc>
-    <lastmod>2018-06-01T01:42:51.430Z</lastmod>
-    <data>
-        <display>
-        <title>Nginx+Tomcat搭建高性能负载均衡集群</title>
-        <pubTime>2017-03-14T16:07:43.000Z</pubTime>
-        
-        <tag>tomcat</tag>
-         
-        <tag>nginx</tag>
          
          
            
@@ -834,146 +1232,6 @@
 
     
   <url>
-    <loc>http://blog.liurenjie.top/posts/7034b073.html</loc>
-    <lastmod>2018-06-01T01:42:51.419Z</lastmod>
-    <data>
-        <display>
-        <title>CentOS6.5安装与配置Mysql数据库</title>
-        <pubTime>2017-01-11T16:32:00.000Z</pubTime>
-        
-        <tag>mysql</tag>
-         
-        <tag>centos6</tag>
-         
-         
-           
-             
-              <breadCrumb title="linux" url="http://blog.liurenjie.top/categories/linux/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/375984d0.html</loc>
-    <lastmod>2018-06-01T01:42:51.414Z</lastmod>
-    <data>
-        <display>
-        <title>在 CentOS7 上安装 Tomcat9</title>
-        <pubTime>2017-01-11T16:04:02.000Z</pubTime>
-        
-        <tag>centos7</tag>
-         
-        <tag>centos6</tag>
-         
-        <tag>tomcat</tag>
-         
-         
-           
-             
-              <breadCrumb title="linux" url="http://blog.liurenjie.top/categories/linux/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/c339e7f3.html</loc>
-    <lastmod>2018-06-01T01:42:51.408Z</lastmod>
-    <data>
-        <display>
-        <title>centos手动安装jdk</title>
-        <pubTime>2017-01-11T15:54:40.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>centos7</tag>
-         
-        <tag>centos6</tag>
-         
-        <tag>ubuntu</tag>
-         
-        <tag>jdk</tag>
-         
-         
-           
-             
-              <breadCrumb title="linux" url="http://blog.liurenjie.top/categories/linux/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/4170035f.html</loc>
-    <lastmod>2018-06-01T01:42:51.403Z</lastmod>
-    <data>
-        <display>
-        <title>在centos7上搭建mysql环境</title>
-        <pubTime>2017-01-11T09:51:24.000Z</pubTime>
-        
-        <tag>centos7</tag>
-         
-        <tag>mysql</tag>
-         
-         
-           
-             
-              <breadCrumb title="linux" url="http://blog.liurenjie.top/categories/linux/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/d70f9175.html</loc>
-    <lastmod>2018-06-01T01:42:51.397Z</lastmod>
-    <data>
-        <display>
-        <title>报错ERR Unsupported CONFIG parameter</title>
-        <pubTime>2017-03-14T18:37:44.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>exception</tag>
-         
-         
-           
-             
-              <breadCrumb title="java" url="http://blog.liurenjie.top/categories/java/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/505e579.html</loc>
-    <lastmod>2018-06-01T01:42:51.392Z</lastmod>
-    <data>
-        <display>
-        <title>No WebApplicationContext found报错解决</title>
-        <pubTime>2017-03-14T17:24:27.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>exception</tag>
-         
-         
-           
-             
-              <breadCrumb title="java" url="http://blog.liurenjie.top/categories/java/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://blog.liurenjie.top/posts/4a17b156.html</loc>
     <lastmod>2018-06-01T01:42:51.382Z</lastmod>
     <data>
@@ -987,30 +1245,6 @@
            
              
               <breadCrumb title="world" url="http://blog.liurenjie.top/categories/world/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/a99ba9a7.html</loc>
-    <lastmod>2018-05-31T10:24:00.891Z</lastmod>
-    <data>
-        <display>
-        <title>如何在centos上搭建自己maven仓库</title>
-        <pubTime>2017-03-10T17:56:00.000Z</pubTime>
-        
-        <tag>maven</tag>
-         
-        <tag>linux</tag>
-         
-        <tag>jdk</tag>
-         
-         
-           
-             
-              <breadCrumb title="maven" url="http://blog.liurenjie.top/categories/maven/"/>
           
         </display>
     </data>
@@ -1035,112 +1269,6 @@
            
              
               <breadCrumb title="linux" url="http://blog.liurenjie.top/categories/linux/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/7a0cd0da.html</loc>
-    <lastmod>2018-05-31T10:24:00.885Z</lastmod>
-    <data>
-        <display>
-        <title>线程同步synchronized和volatile</title>
-        <pubTime>2017-03-14T11:01:35.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-         
-           
-             
-              <breadCrumb title="java" url="http://blog.liurenjie.top/categories/java/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/64baa540.html</loc>
-    <lastmod>2018-05-31T10:24:00.882Z</lastmod>
-    <data>
-        <display>
-        <title>几种常用加密算法比较</title>
-        <pubTime>2017-03-12T21:30:45.000Z</pubTime>
-        
-        <tag>加密</tag>
-         
-         
-           
-             
-              <breadCrumb title="加密" url="http://blog.liurenjie.top/categories/%E5%8A%A0%E5%AF%86/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/36a5596d.html</loc>
-    <lastmod>2018-05-31T10:24:00.877Z</lastmod>
-    <data>
-        <display>
-        <title>Ubuntu 16.04配置Shadowsocks和Privoxy实现浏览器和终端代理</title>
-        <pubTime>2017-03-18T18:52:19.000Z</pubTime>
-        
-        <tag>ubuntu</tag>
-         
-        <tag>shadowsocks</tag>
-         
-        <tag>privoxy</tag>
-         
-         
-           
-             
-              <breadCrumb title="shadowsocks" url="http://blog.liurenjie.top/categories/shadowsocks/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/78468f49.html</loc>
-    <lastmod>2018-05-31T10:24:00.874Z</lastmod>
-    <data>
-        <display>
-        <title>一键安装ssr脚本</title>
-        <pubTime>2017-02-10T15:01:05.000Z</pubTime>
-        
-        <tag>shadowsocks</tag>
-         
-        <tag>linux</tag>
-         
-         
-           
-             
-              <breadCrumb title="shadowsocks" url="http://blog.liurenjie.top/categories/shadowsocks/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/c5efe366.html</loc>
-    <lastmod>2018-05-31T10:24:00.869Z</lastmod>
-    <data>
-        <display>
-        <title>MySQL中select * for update锁表的范围</title>
-        <pubTime>2017-03-14T11:30:35.000Z</pubTime>
-        
-        <tag>mysql</tag>
-         
-         
-           
-             
-              <breadCrumb title="mysql" url="http://blog.liurenjie.top/categories/mysql/"/>
           
         </display>
     </data>
@@ -1214,92 +1342,6 @@
 
     
   <url>
-    <loc>http://blog.liurenjie.top/posts/9a8ecd5e.html</loc>
-    <lastmod>2018-05-31T10:24:00.858Z</lastmod>
-    <data>
-        <display>
-        <title>java中实现同步的两种方式:syschronized和lock的区别和联系</title>
-        <pubTime>2017-03-12T22:12:27.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-         
-           
-             
-              <breadCrumb title="java" url="http://blog.liurenjie.top/categories/java/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/7c96e91b.html</loc>
-    <lastmod>2018-05-31T07:28:34.685Z</lastmod>
-    <data>
-        <display>
-        <title>mysql 用户管理和权限设置</title>
-        <pubTime>2017-02-09T13:23:12.000Z</pubTime>
-        
-        <tag>mysql</tag>
-         
-         
-           
-             
-              <breadCrumb title="mysql" url="http://blog.liurenjie.top/categories/mysql/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/472ddb62.html</loc>
-    <lastmod>2018-05-31T07:05:03.885Z</lastmod>
-    <data>
-        <display>
-        <title>DOS/BAT批处理if exist else 语句的几种用法</title>
-        <pubTime>2017-01-13T10:31:32.000Z</pubTime>
-        
-        <tag>windows</tag>
-         
-        <tag>dos</tag>
-         
-        <tag>bat</tag>
-         
-         
-           
-             
-              <breadCrumb title="windows" url="http://blog.liurenjie.top/categories/windows/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/6620919c.html</loc>
-    <lastmod>2018-05-31T03:34:07.505Z</lastmod>
-    <data>
-        <display>
-        <title>JVM原理（Java代码编译和执行的整个过程+JVM内存管理及垃圾回收机制）</title>
-        <pubTime>2016-12-30T09:32:21.000Z</pubTime>
-        
-        <tag>java</tag>
-         
-        <tag>jvm</tag>
-         
-         
-           
-             
-              <breadCrumb title="java" url="http://blog.liurenjie.top/categories/java/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://blog.liurenjie.top/posts/2b851410.html</loc>
     <lastmod>2018-05-31T03:12:47.627Z</lastmod>
     <data>
@@ -1344,54 +1386,12 @@
 
     
   <url>
-    <loc>http://blog.liurenjie.top/posts/e69fdf4.html</loc>
-    <lastmod>2018-05-25T07:56:29.430Z</lastmod>
-    <data>
-        <display>
-        <title>js输入文本验证</title>
-        <pubTime>2016-12-29T00:00:00.000Z</pubTime>
-        
-        <tag>javascript</tag>
-         
-        <tag>html</tag>
-         
-         
-           
-             
-              <breadCrumb title="javascript" url="http://blog.liurenjie.top/categories/javascript/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://blog.liurenjie.top/posts/7695639d.html</loc>
     <lastmod>2018-05-25T07:56:29.427Z</lastmod>
     <data>
         <display>
         <title>防止ajax表单重复提交</title>
         <pubTime>2017-01-09T00:00:00.000Z</pubTime>
-        
-        <tag>javascript</tag>
-         
-         
-           
-             
-              <breadCrumb title="javascript" url="http://blog.liurenjie.top/categories/javascript/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.liurenjie.top/posts/f3825253.html</loc>
-    <lastmod>2018-05-25T07:56:29.423Z</lastmod>
-    <data>
-        <display>
-        <title>根据字节数获取字符长度 并截取</title>
-        <pubTime>2016-12-20T00:00:00.000Z</pubTime>
         
         <tag>javascript</tag>
          
