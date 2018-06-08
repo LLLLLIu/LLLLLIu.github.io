@@ -4,6 +4,48 @@
 
     
   <url>
+    <loc>http://blog.liurenjie.top/posts/920061eb.html</loc>
+    <lastmod>2018-06-08T07:32:57.892Z</lastmod>
+    <data>
+        <display>
+        <title>Lombok详解及使用</title>
+        <pubTime>2018-06-08T13:25:00.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+        <tag>lombok</tag>
+         
+         
+           
+             
+              <breadCrumb title="java" url="http://blog.liurenjie.top/categories/java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.liurenjie.top/posts/eb34cc03.html</loc>
+    <lastmod>2018-06-08T07:31:38.765Z</lastmod>
+    <data>
+        <display>
+        <title>Git手册</title>
+        <pubTime>2018-06-08T15:19:22.000Z</pubTime>
+        
+        <tag>git</tag>
+         
+         
+           
+             
+              <breadCrumb title="other" url="http://blog.liurenjie.top/categories/other/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://blog.liurenjie.top/posts/fca4a688.html</loc>
     <lastmod>2018-06-07T10:02:42.073Z</lastmod>
     <data>
@@ -237,9 +279,9 @@
         <title>一键安装ssr脚本</title>
         <pubTime>2017-02-10T15:01:05.000Z</pubTime>
         
-        <tag>shadowsocks</tag>
-         
         <tag>linux</tag>
+         
+        <tag>shadowsocks</tag>
          
          
            
@@ -283,9 +325,9 @@
         <title>服务器上搭建ss</title>
         <pubTime>2017-01-11T00:00:00.000Z</pubTime>
         
-        <tag>shadowsocks</tag>
-         
         <tag>linux</tag>
+         
+        <tag>shadowsocks</tag>
          
          
            
